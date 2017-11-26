@@ -1,28 +1,26 @@
 /***** Import *****/
 
-@import url(https://fonts.googleapis.com/css?family=Lato);
 @import url(https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.6.3/css/font-awesome.css);
 
 /***** Main style *****/
 
 body {
     background: #FFFFFF;
-} 
-p {
-	font-size:40px;
-	color: #322f30
+    font-family: 'Alfa Slab One';
+    font-size: 40px;
+    color: #322f30;
 } 
 .container {
-  display: table;
-  margin-right: auto;
-  margin-left: auto;
+
 }
 .presentation {
-	text-align: center;
+
 }
 .socialmedia {
-    display:block;
-    margin: 0 auto;
+
+}
+p {
+	text-align: center;
 }
 
 /***** Social Media *****/
@@ -101,4 +99,15 @@ ul.social-icons {
 }
 .fa-linkedin:hover {
     color: #0073a4;
+}
+.fa-envelope {
+    padding:10px 12px;
+    -o-transition:.5s;
+    -ms-transition:.5s;
+    -moz-transition:.5s;
+    -webkit-transition:.5s;
+    transition: .5s;
+}
+.fa-envelope:hover {
+    color: #BF4D28;
 }
