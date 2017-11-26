@@ -6,21 +6,16 @@
 
 body {
     background: #FFFFFF;
-    font-family: 'Alfa Slab One';
-    font-size: 40px;
-    color: #322f30;
 } 
-.container {
 
-}
-.presentation {
-
-}
-.socialmedia {
-
-}
-p {
-	text-align: center;
+div {
+    height: 200px;
+    width: 400px;
+    position: fixed;
+    top: 50%;
+    left: 50%;
+    margin-top: -100px;
+    margin-left: -200px;
 }
 
 /***** Social Media *****/
