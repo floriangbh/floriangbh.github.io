@@ -45,17 +45,6 @@ ul.social-icons {
     color: #322f30;
     text-decoration: none;
 }
-.fa-facebook {
-    padding:10px 14px;
-    -o-transition:.5s;
-    -ms-transition:.5s;
-    -moz-transition:.5s;
-    -webkit-transition:.5s;
-    transition: .5s;
-}
-.fa-facebook:hover {
-    color: #3d5b99;
-}
 .fa-twitter {
     padding:10px 12px;
     -o-transition:.5s;
